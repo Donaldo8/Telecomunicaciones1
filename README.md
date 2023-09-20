@@ -1,6 +1,6 @@
-### Telecomunicaciones1
+# Telecomunicaciones1
 
-## TEMARIO
+TEMARIO
 
 1. Introducción a las telecomunicaciones
 
@@ -12,8 +12,7 @@
 1.3.2Aplicación de Filtros en comunicaciones
 1.4 uido y normatividad
 
-2. Fundamentos de modulación y
-demodulación
+2. Fundamentos de modulación y demodulación
 
 2.1 Analógica: amplitud, frecuencia y fase
 2.2 Digital: Teorema de Shanon, pulsos: PAM, PPM,
@@ -60,16 +59,13 @@ posicionamiento global
 6.5 Transmisores y receptores ópticos
 6.6 Comunicación por infrarrojo
 
-
-
 ## Actividad en clase 2.2 Señal analógico vs Señal digital
-
 
 **Señal Analógica**: Es una señal continua que se define para cada instante de tiempo. Se genera por electromagnetismo y se representa por variables de amplitud y periodo en base al tiempo. Una de las ventajas del uso de la señal analógica es que hay poco consumo de ancho de banda, mientras que por otro lado es un tipo de acción que se procesa en tiempo real.
 
 **Señal Digital**: Es una señal discontinua y se define discretamente en unos instantes de tiempo específicos. Se genera por modulación digital y utiliza dos estados para representar valores discretos. La señal digital se ve menos afectada por el ruido ambiental que la señal analógica. Las señales digitales son más limitadas que las analógicas debido al poco soporte que proporcionan en términos de volumen de datos que permiten transmitir.
 
-La diferencia ente ambas es que la señal analógica es continua y la señal digital es discreta. Las señales digitales pueden ser transmitidas a mayores distancias sin pérdida de calidad mientras que las señales digitales son menos susceptibles al ruido en comparación con las señales analógicas.
+La diferencia entre ambas es que la señal analógica es continua y la señal digital es discreta. Las señales digitales pueden ser transmitidas a mayores distancias sin pérdida de calidad mientras que las señales digitales son menos susceptibles al ruido en comparación con las señales analógicas.
 
 ## Ventajas de las señales AM Y FM
 AM
