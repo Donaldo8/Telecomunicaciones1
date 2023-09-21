@@ -79,7 +79,7 @@ Se ve menos afectada por el ruido.
 =======
 
 
-##Actividad en clase 2.2 Señal analógico vs Señal digital
+####Actividad en clase 2.2 Señal analógico vs Señal digital
 
 
 Señal Analógica: Es una señal continua que se define para cada instante de tiempo. Se genera por electromagnetismo y se representa por variables de amplitud y periodo en base al tiempo. Una de las ventajas del uso de la señal analógica es que hay poco consumo de ancho de banda, mientras que por otro lado es un tipo de acción que se procesa en tiempo real.
