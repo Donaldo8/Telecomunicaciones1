@@ -70,3 +70,12 @@ posicionamiento global
 **Señal Digital**: Es una señal discontinua y se define discretamente en unos instantes de tiempo específicos. Se genera por modulación digital y utiliza dos estados para representar valores discretos. La señal digital se ve menos afectada por el ruido ambiental que la señal analógica. Las señales digitales son más limitadas que las analógicas debido al poco soporte que proporcionan en términos de volumen de datos que permiten transmitir.
 
 La diferencia ente ambas es que la señal analógica es continua y la señal digital es discreta. Las señales digitales pueden ser transmitidas a mayores distancias sin pérdida de calidad mientras que las señales digitales son menos susceptibles al ruido en comparación con las señales analógicas.
+
+## Ventajas de las señales AM Y FM
+AM
+Han sido tradicionalmente más sencillos y baratos.
+Puede escucharse a cientos de kilómetros del lugar de transmisión.
+
+FM
+Tiene un ancho de banda superior a los 20KHz.
+Se ve menos afectada por el ruido.
