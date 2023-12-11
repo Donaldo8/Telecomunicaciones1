@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilos.css">
+    <title>Mi Sitio Web</title>
+    <script>
+        // Lista de imágenes
+        var imagenes = ["fibra.jpg", "Propagación.jpg", "fibra-optica3.jpg"];
+        var indiceImagen = 0;
+
+        // Función para cambiar la imagen
+        function cambiarImagen() {
+            var imagen = document.getElementById('imagen-carrusel');
+            imagen.src = imagenes[indiceImagen];
+            indiceImagen = (indiceImagen + 1) % imagenes.length;
+            setTimeout(cambiarImagen, 5000); // Cambia cada 3 segundos
+        }
+
+        // Iniciar el carrusel al cargar la página
+        window.onload = cambiarImagen;
+    </script>
+</head>
+    
+</head>
+<body>
+    <header>
+        <h1>LA FIBRA ÓPTICA</h1>
+    </header>
+
+    <section>
+        <img id="imagen-carrusel" src="fibra-optica3.jpg" alt="Descripción de la imagen" style="width: 50%;">
+
+        <nav>
+            <ul>
+                <li><a href="historia.html">Historia</a></li>
+                <li><a href="concepto.html">Concepto</a></li>
+                <li><a href="tipos.html">Tipos</a></li>
+                <li><a href="herramientas.html">Herramientas</a></li>
+                <li><a href="consideraciones.html">Consideraciones</a></li>
+            </ul>
+        </nav>
+
+        
+
+        
+            <p style="text-align: justify;">
+                ¡Bienvenido a nuestro espacio dedicado a explorar el  mundo de la fibra óptica!
+                Aquí, descubrirás los principios fundamentales, los tipos y las herramientas necesaras para trabajar con esta.
+            </p>
+            <p style="text-align: justify;">
+                Nuestra misión es proporcionar información clara y precisa sobre la fibra óptica, desde sus
+                conceptos básicos hasta sus aplicaciones avanzadas en diversas industrias. Explora y navega por cada una de las pestañas para entender cómo la luz puede transformar la manera en que
+                nos comunicamos y conectamos en la era digital.
+            </p>
+            
+             
+        
+        
+
+        
+        
+    </section>
+
+    <footer>
+        <p>Referencia:</p>
+        <p>The Fiber Optic Association. (n.d.). Introducción a la fibra óptica. Recuperado de https://thefoa.org/ESP/Introduccion.htm</p>
+        <p>Derechos de autor © 2023</p>
+    </footer>
+</body>
+</html>
